@@ -1,3 +1,3 @@
-#My updated resume
+# My updated resume
 
-Please find my updated resume here
+Please find my updated resume (it's a pdf file with name Vimal Chamyal)
